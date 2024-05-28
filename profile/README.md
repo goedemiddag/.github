@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.goedemiddag.nl" target="_blank"><img src="https://github.com/goedemiddag/.github/blob/master/images/logo.png?raw=true"></a></p>
+<p align="center"><a href="https://www.goedemiddag.nl" target="_blank"><img src="https://github.com/goedemiddag/.github/blob/main/images/logo.png?raw=true"></a></p>
 
 # 👋 Goedemiddag!
 
