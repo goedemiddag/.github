@@ -4,7 +4,7 @@
 
 Goedemiddag! is a digital web-agency based in Delft, the Netherlands. We are a team of professionals who are passionate about the craft of building digital solutions that make a difference for its users.
 
-# ✋We're hiring
+# ✋ We're hiring
 
 We are looking for new additions to our team. Visit our [careers page](https://goedemiddag.recruitee.com/) for more information.
 
