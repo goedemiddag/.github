@@ -12,4 +12,4 @@ We are looking for new additions to our team. Visit our [careers page](https://g
 
 - View our [website](https://goedemiddag.nl/) and check out our video to get a proper impression of the company and our special office.
 - View [vacancies](https://goedemiddag.recruitee.com/) and join our great team!
-- Or find us on [LinkedIn](https://www.linkedin.com/company/goedemiddag/), and please don't hesitate to send us a message there.
+- Or find us on [LinkedIn](https://www.linkedin.com/company/goedemiddag/), and please don't hesitate to send us a message.
